@@ -22,12 +22,12 @@ My journey in informatics engineering has led me to develop a passion for cybers
 | Technical Content Creation (Tech Education) | <a href="https://google.com">Cybersec Education</a>|
 
 ## Tools
-<img src="https://img.shields.io/badge/-Burpsuite-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nmap-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Burpsuite-FF0000?&style=for-the-badge&logo=Burpsuitek&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-1679A7?&style=for-the-badge&logo=Nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-L1 Pentest (JadiHacker)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Web Penetration Testing (Cyber Academy)-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
