@@ -22,7 +22,10 @@ My journey in informatics engineering has led me to develop a passion for cybers
 | Technical Content Creation (Tech Education) | <a href="https://google.com">Cybersec Education</a>|
 
 ## Tools
-
+<img src="https://img.shields.io/badge/-Burpsuite-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
