@@ -1,7 +1,8 @@
 # Hello, I'm Nadzril
 <a href="https://linkedin.com/in/mnadzril"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://www.youtube.com/@nadzrilkusumaa"><img src="https://img.shields.io/youtube/channel/views/:@Nadzrilkusumaa"
+<a href="https://www.youtube.com/@nadzrilkusumaa"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 [Brief Introduction - Remove this afterwards]
 
